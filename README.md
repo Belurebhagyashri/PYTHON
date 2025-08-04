@@ -42,15 +42,14 @@ Jupyter Notebook is a tool to write and run Python code in a web browser.
 ## 💡 Summary
 Day 1 helped me understand how Python works, how to take input and print results. I created simple programs and pushed them to GitHub.
 
-#Day 2
-- [2] Day 2: If-Else Statements  
-- [3] Day 3: For Loops  
-- [4] Day 4: While Loops  
-- [5 ] Day 5: Functions  
-- [6 ] Day 6: Lists and Tuples  
-- [7 ] Day 7: Dictionaries  
-- [8 ] Day 8: File Handling  
+#Day 2## 📘 Day 2: Variables, Data Types & Type Casting
 
+In this practice notebook, I explored the following core Python concepts:
+
+- 🟡 **Variables** – How to create and assign variables
+- 🔢 **Data Types** – int, float, str, bool, etc.
+- 🔄 **Type Casting** – Converting between data types using `int()`, `float()`, `str()`, etc.
+- ✅ Practiced basic input/output and type conversion examples
 
 ---
 ## 📂 Folder Structure
