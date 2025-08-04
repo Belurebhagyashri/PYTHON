@@ -42,7 +42,8 @@ Jupyter Notebook is a tool to write and run Python code in a web browser.
 ## 💡 Summary
 Day 1 helped me understand how Python works, how to take input and print results. I created simple programs and pushed them to GitHub.
 
-#Day 2## 📘 Day 2: Variables, Data Types & Type Casting
+# Day 2
+# 📘 Day 2: Variables, Data Types & Type Casting
 
 In this practice notebook, I explored the following core Python concepts:
 
