@@ -11,48 +11,6 @@ Here, I upload my *daily learning, exercises, and mini-projects* to improve my P
 🧠 Improve confidence with coding problems and mini projects
 
 ---
-
-## ✅ Progress Tracker
-
-- # Day 1 - Python Basics
-
-## ✅ Topics Covered
-- print() function
-- variables
-- input() function
-- basic data types: int, float, str, bool
-- type() function
-
-## 📁 Programs
-- hello_world.py
-- variables.py
-- input_output.py
-- add_two_numbers.py
-- datatype_check.py
- ## 💻 How to Install Jupyter Notebook
-
-Jupyter Notebook is a tool to write and run Python code in a web browser.
-
-### ✅ Step 1: Install Python
-
-1. Check if Python is installed:
-   ```bash
-   python --version
-
-## 💡 Summary
-Day 1 helped me understand how Python works, how to take input and print results. I created simple programs and pushed them to GitHub.
-
-# Day 2
-# 📘 Day 2: Variables, Data Types & Type Casting
-
-In this practice notebook, I explored the following core Python concepts:
-
-- 🟡 **Variables** – How to create and assign variables
-- 🔢 **Data Types** – int, float, str, bool, etc.
-- 🔄 **Type Casting** – Converting between data types using `int()`, `float()`, `str()`, etc.
-- ✅ Practiced basic input/output and type conversion examples
-
----
 ## 📂 Folder Structure
 
 
